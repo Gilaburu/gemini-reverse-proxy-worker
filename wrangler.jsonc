@@ -16,8 +16,8 @@
     },
     "kv_namespaces": [
         {
-            "binding": "KV_STORAGE",
-            "id": "9caf3cd56907481b8a61fa05e7920894",
+            "binding": "gemini-proxy-kv",
+            "id": "633c918ab7f3430ab9693bade0ef2bf5",
         },
     ],
     /**
